@@ -1,4 +1,4 @@
-# Obect-Detection-with-OpenCV-and-Raspberry-Pi-
+# Object-Detection-with-OpenCV-and-Raspberry-Pi-
 # Requirements Hardware and Software
 - Raspberry Pi 4 Model B  <br />
 - Raspberry Pi High-Quality Camera <br />
