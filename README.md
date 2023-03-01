@@ -1,4 +1,4 @@
-# Intelligent Traffic Light Control System using Object Detection,OpenCV, and Raspberry Pi
+#  Object Detection,OpenCV, and Raspberry Pi for Traffic Light Control System
 
 This project aims to develop a smart traffic light control system using computer vision and Arduino. The system detects the presence of cars and switches the traffic light phase accordingly. <br />
 # Usage
