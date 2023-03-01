@@ -33,7 +33,7 @@ sudo apt install python3-dev python3-pip python3-numpy <br />
 sudo apt install python3-opencv <br />
 apt show python3-opencv <br />
 
-#Code Overview
+# Code Overview
 The TrafficLight class is defined to implement the smart traffic light control system. The class has the following methods: <br />
 
 __init__(self): Initializes the PiCamera and sets its resolution and framerate.<br />
