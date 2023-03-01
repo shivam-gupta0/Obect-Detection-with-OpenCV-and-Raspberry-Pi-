@@ -36,10 +36,10 @@ apt show python3-opencv <br />
 # Code Overview
 The TrafficLight class is defined to implement the smart traffic light control system. The class has the following methods: <br />
 
-__init__(self): Initializes the PiCamera and sets its resolution and framerate.<br />
-detect_cars(self, frame): Detects the presence of cars in the frame using computer vision.<br />
-switch_phase(self, phase): Switches the traffic light phase based on the detected cars and the current traffic light phase.<br />
-run(self): Runs the traffic light control system.<br />
+**__init__(self)**: Initializes the PiCamera and sets its resolution and framerate.<br />
+**detect_cars(self, frame)**: Detects the presence of cars in the frame using computer vision.<br />
+**switch_phase(self, phase)**: Switches the traffic light phase based on the detected cars and the current traffic light phase.<br />
+**run(self)**: Runs the traffic light control system.<br />
 The main program creates an instance of the TrafficLight class and runs the traffic light control system by calling the run() method. The system continuously captures frames from the PiCamera, detects the presence of cars using the detect_cars() method, and switches the traffic light phase using the switch_phase() method.<br />
 
 ![toy_detection](https://user-images.githubusercontent.com/85798077/177434860-8b693e29-af2e-4856-b60b-a2d168864f3a.jpg)
