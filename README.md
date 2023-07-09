@@ -5,9 +5,9 @@ This project aims to develop a smart traffic light control system using computer
 Connect the Raspberry Pi and Arduino board. <br />
 Install the required libraries: OpenCV, NumPy, and PySerial.<br />
 Connect the Pi Camera module to the Raspberry Pi.<br />
-Run the traffic_light.py file using the following command:<br />
+Run the detection.py file using the following command:<br />
 <br />
-**python3 traffic_light.py** <br />
+**python3 detection.py** <br />
 <br />
 The system will detect the presence of cars and switch the traffic light phase accordingly.
 # Requirements Hardware and Software
